@@ -1,0 +1,16 @@
+Rouge metric - TfIdf
+
+Rogue-1 value 0.5687637501169132
+Rogue-2 value 0.4119476266861668
+Rogue-3 value 0.4272123725329563
+
+
+
+Rouge metric - PageRank
+
+Rogue-1 value 0.700651203639658
+Rogue-2 value 0.5452239485606658
+Rogue-3 value 0.5218949110954344
+
+
+
